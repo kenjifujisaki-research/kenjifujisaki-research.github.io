@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Kenji Fujisaki"
 title_separator          : "-"
-name                     : &name "Kenji Fujisaki"
+name                     : &name "藤崎 健二 / Kenji Fujisaki"
 description              : &description "恋愛と社会的認知の神経基盤を探る研究者"
 url                      : "https://kenjifujisaki-research.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "kenjifujisaki-research/kenjifujisaki-research.github
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Kenji Fujisaki"
+  name             : "藤崎 健二 / Kenji Fujisaki"
   pronouns         : "he/him"  
   bio              : "京都大学(博士後期課程)にて、恋愛や社会的認知に関する脳のメカニズムを研究中。"
   location         : "Kyoto Japan"
@@ -35,7 +35,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0006-0114-6169"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "kenjifujisaki-research"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
