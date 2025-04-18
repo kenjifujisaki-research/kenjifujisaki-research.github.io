@@ -41,7 +41,12 @@
   .author__urls-wrapper {
     display: flex;
     flex-direction: column;
-    align-items: flex-start; 
+    align-items: flex-end; /* ✅ ボタンと吹き出しを右寄せ */
+    gap: 0.4rem;            /* ✅ ボタンとメニューの間に隙間 */
+  }
+
+  .author__urls {
+    margin-top: 0 !important; /* ✅ メニュー自体の余白リセット */
   }
 }
 </style>
