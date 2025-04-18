@@ -9,12 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+略歴
 ======
-* 2024.4- 京都大学大学院文学研究科 行動文化学専攻 博士後期課程
+* 2024.4-現在 京都大学大学院文学研究科 行動文化学専攻 博士後期課程
 * 2022.4-2024.3 京都大学大学院文学研究科 行動文化学専攻 修士課程修了 (指導教員: 阿部修士 准教授)
 * 2018.4-2022.3 慶應義塾大学理工学部システムデザイン工学科 卒業
+* 2014.4-2017.3 埼玉県立浦和高校 卒業
 
+教育
+======
+* 京都大学 ILASセミナー：こころの科学セミナー“実験心理学 × 脳神経科学 × データサイエンス”，ティーチングアシスタント.
+
+仕事
+======
+* 2019.10-2022.3 NTTデータ経営研究所, インターンシップ
+* 2022.4-現在 NTTデータ経営研究所より、学術的調査および指導業務を受託
+    
 <!--
 Work experience
 ======
@@ -32,7 +42,7 @@ Work experience
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
--->
+
   
 Skills
 ======
@@ -55,12 +65,11 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
+le-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+-->
