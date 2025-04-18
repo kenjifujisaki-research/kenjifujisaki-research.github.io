@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-title: "研究テーマや研究手法などについて"
+title: "研究テーマ・手法など"
 author_profile: true
 ---
 
@@ -25,6 +25,6 @@ author_profile: true
 - 脳波解析
 - 心拍解析
 
-## スキル
+## 所属学会
 - 日本ヒト脳マッピング学会
 - 日本心理学会
