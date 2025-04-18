@@ -22,7 +22,7 @@ repository               : "kenjifujisaki-research/kenjifujisaki-research.github
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "icon_self_trimmed.jpeg"
+  avatar           : "icon_self_mini.jpeg"
   name             : "藤崎 健二 / Kenji Fujisaki"
   pronouns         : "he/him"  
   bio              : "京都大学(博士後期課程)にて、恋愛や社会的認知に関する脳のメカニズムを研究中。"
