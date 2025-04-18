@@ -9,8 +9,7 @@ title: "自己紹介"
 ---
 
 ## 藤崎 健二 /  Kenji Fujisaki
-所属：京都大学大学院文学研究科行動文化学専攻心理学専修 博士後期課程
-[研究室HP](https://abe.ifohs.kyoto-u.ac.jp/members/)
+所属：京都大学大学院文学研究科行動文化学専攻心理学専修 [阿部研究室](https://abe.ifohs.kyoto-u.ac.jp/members/)
 
 
 ## 恋愛関係を支える脳のしくみに迫る
