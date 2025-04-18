@@ -85,7 +85,7 @@ publication_category:
     title: '学会'
   preseantation:
     title: '研究発表'
-  conferences:
+  others:
     title: 'その他'
 
 # Site Settings
