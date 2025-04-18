@@ -10,7 +10,10 @@
     {% if author.avatar contains "://" %}
     	<img src="{{ author.avatar }}" alt="{{ author.name }}">
     {% else %}
-    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
+    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}"
+     alt="{{ author.name }}"
+     style="width: 180px; height: 180px; border-radius: 50%; display: block; margin: 0 auto;">
+
     {% endif %}
   </div>
 
