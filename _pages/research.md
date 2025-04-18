@@ -21,7 +21,7 @@ author_profile: true
 - プログラミング
   - Matlab, R, Python, Presentation, C++
 - 心理統計
-- 数理モデリング（勉強中）
+- 計算論モデリング（勉強中）
 - 脳波解析
 - 心拍解析
 
