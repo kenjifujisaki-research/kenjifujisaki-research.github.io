@@ -21,8 +21,9 @@ author_profile: true
 - プログラミング
   - Matlab, R, Python, Presentation, C++
 - 心理統計
-- 機械学習
-- 数理モデリング
+- 数理モデリング（勉強中）
+- 脳波解析
+- 心拍解析
 
 ## スキル
 - 日本ヒト脳マッピング学会
