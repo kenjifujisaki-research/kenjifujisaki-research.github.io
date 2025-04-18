@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "経歴"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,10 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 2024.4- 京都大学大学院文学研究科 行動文化学専攻 博士後期課程
+* 2022.4-2024.3 京都大学大学院文学研究科 行動文化学専攻 修士課程修了 (指導教員: 阿部修士 准教授)
+* 2018.4-2022.3 慶應義塾大学理工学部システムデザイン工学科 卒業
 
+<!--
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
@@ -31,6 +32,7 @@ Work experience
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
+-->
   
 Skills
 ======
