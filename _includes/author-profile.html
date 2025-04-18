@@ -38,6 +38,29 @@
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
+ <style>
+
+.contact-button {
+  display: inline-block;
+  margin-top: 1rem;
+}
+@media screen and (max-width: 767px) {
+  .contact-button {
+    display: inline-block;
+    width: auto;
+    padding: 0.5em 1em;
+    font-size: 1rem;
+    float: right;
+    margin-right: 0.5rem;
+  }
+
+  .author__urls-wrapper {
+    display: flex;
+    flex-direction: column;
+  }
+}
+</style>
+
 
   
   <div class="author__urls-wrapper">
