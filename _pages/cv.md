@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "経歴"
+# title: "経歴"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -22,5 +22,6 @@ redirect_from:
 
 ## 仕事
 ======
-* 2019.10–2022.3 NTTデータ経営研究所, インターンシップ
 * 2022.4–現在 NTTデータ経営研究所より、学術的調査および指導業務を受託
+* 2019.10–2022.3 NTTデータ経営研究所, インターンシップ
+
