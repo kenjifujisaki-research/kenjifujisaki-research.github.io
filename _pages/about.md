@@ -5,6 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+title: "自己紹介"
 ---
 
 ## 恋愛関係を支える脳のしくみに迫る
