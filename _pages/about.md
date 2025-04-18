@@ -19,5 +19,5 @@ redirect_from:
 
 このサイトでは、私の研究活動などについて紹介しています。
 
-研究に関心のある方、共同研究・メディア取材をご検討の方は、[メールにてご連絡ください](mailto:kenji.fujisaki.research@gmail.com)。
+研究に関心のある方、共同研究・メディア取材をご検討の方は、[メール](mailto:kenji.fujisaki.research@gmail.com)にてご連絡ください。
 
