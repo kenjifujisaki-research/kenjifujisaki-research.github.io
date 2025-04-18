@@ -6,16 +6,31 @@
 
 <div itemscope itemtype="http://schema.org/Person">
 
-  <div class="author__avatar">
-    {% if author.avatar contains "://" %}
-    	<img src="{{ author.avatar }}" alt="{{ author.name }}">
-    {% else %}
-    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}"
-     alt="{{ author.name }}"
-     style="width: 180px; height: 180px; border-radius: 50%; display: block; margin: 0 auto;">
+  <style>
+.responsive-avatar {
+  display: block;
+  margin: 0 auto;
+  border-radius: 50%;
+  width: 120px;
+  height: auto;
+}
 
-    {% endif %}
-  </div>
+@media screen and (min-width: 768px) {
+  .responsive-avatar {
+    width: 180px;
+  }
+}
+</style>
+
+<div class="author__avatar">
+  {% if author.avatar contains "://" %}
+    <img src="{{ author.avatar }}" alt="{{ author.name }}" class="responsive-avatar">
+  {% else %}
+    <img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}"
+         alt="{{ author.name }}"
+         class="responsive-avatar">
+  {% endif %}
+</div>
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
