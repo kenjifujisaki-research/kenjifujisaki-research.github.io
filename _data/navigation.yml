@@ -9,7 +9,7 @@
 
 main:
   - title: "自己紹介"
-    url:/
+    url: /
 
   - title: "研究テーマ・手法"
     url: /research
